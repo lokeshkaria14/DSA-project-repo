@@ -262,9 +262,12 @@ MIT License — See LICENSE file for details
 
 ---
 
-##  Author
+##  Contributors
 
 **lokeshkaria14**
+**tanishka-trivedi**
+**palakmishra01**
+**shakeelamehrat**
 
 ---
 
