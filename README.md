@@ -264,10 +264,10 @@ MIT License — See LICENSE file for details
 
 ##  Contributors
 
-**lokeshkaria14**
-**tanishka-trivedi**
-**palakmishra01**
-**shakeelamehrat**
+-**lokeshkaria14**
+-**tanishka-trivedi**
+-**palakmishra01**
+-**shakeelamehrat**
 
 ---
 
